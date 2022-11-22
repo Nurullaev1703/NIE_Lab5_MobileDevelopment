@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startMarker_id">m0</string>
+    <string name="startMarker_title">Павлодар</string>
+    <string name="startMarker_info">
+        <![CDATA[
+               <b>Ближайшие объекты к дому</b> <BR>
+        Парк Афганцев, ТД "Артур", ресторан "Alpenhof", кинотеатр им. Шакена Айманова<BR>
+        ]]>
+        </string>
+    <string name="startMarker_file"></string>
+
+    <!--  -->
+
+    <string name="marker1_id">m1</string>
+    <string name="marker1_title">Alpenhof</string>
+    <string name="marker1_txt_click">Alpenhof</string>
+    <string name="marker1_info">
+        <![CDATA[
+        <b>Alpenhof
+           </b><BR>
+        — Бар-ресторан с красивым дизайном интерьера, вкусной кухней и европейской стилистикой оформления дома<BR>
+        Хорошее место для проведения совместного отдыха с семьей или близкими людьми<BR>
+        Телефон: +77182903999<BR>
+        Сайт: https://alpenhof.kz<BR>
+        ]]>
+        </string>
+    <string name="marker1_file">file:///android_asset/BV/index.html</string>
+
+    <!--  -->
+
+    <string name="marker2_id">m2</string>
+    <string name="marker2_title">Кинотеатр им.Шакена Айманова</string>
+    <string name="marker2_txt_click">Кинотеатр им.Шакена Айманова</string>
+    <string name="marker2_info">
+        <![CDATA[
+        <b>Кинотеатр им.Шакена Айманова </b> <BR>  — это уютный, современный, а главное - семейный кинотеатр, который всегда открыт для гостей и жителей Павлодара!<BR>
+        Телефон: +77182393999 <BR>
+        Сайт: https://kino.kz/cinema/41<BR>
+        ]]>
+        </string>
+    <string name="marker2_file">file:///android_asset/WB/index.html</string>
+
+    <string name="marker3_id">m3</string>
+    <string name="marker3_title">Школа №5</string>
+    <string name="marker3_txt_click">Школа №5</string>
+    <string name="marker3_info">
+        <![CDATA[
+        <b>Школа №5
+           </b><BR>
+        Средняя общеобразовательная школа<BR>
+        Входит в часть проектной работы по улучшению условий учебы в школах Павлодара<BR>
+        Около 2000 учащихся возрастом от 6 до 18 лет<BR>
+        Телефон: +7 7182 54 95 80<BR>
+        ]]>
+        </string>
+    <string name="marker3_file">file:///android_asset/BIL/index.html</string>
+
+    <!--  -->
+
+    <string name="marker4_id">m4</string>
+    <string name="marker4_title">Microfon</string>
+    <string name="marker4_txt_click">Microfon</string>
+    <string name="marker4_info">
+        <![CDATA[
+        <b>Microfon </b> <BR> школа музыки и звукозаписи <BR>
+        Школа с уникальной методикой преподавания<BR>
+        Обучение происходит в мини группах (квартетах)<BR>
+        Телефон: +77076233023 <BR>
+        Сайт: https://instagram.com/microfon_pvl?igshid=YmMyMTA2M2Y= <BR>
+        ]]>
+        </string>
+    <string name="marker4_file">file:///android_asset/EURASIA/index.html</string>
+
+    <!--  -->
+
+    <string name="marker5_id">m5</string>
+    <string name="marker5_title">Парк Афганцев</string>
+    <string name="marker5_txt_click">Парк Афганцев</string>
+    <string name="marker5_info">
+        <![CDATA[
+        <b>Парк Афганцев </b> <BR>  — Парк, расположенный по улице Лермонтова в память о воинах, погибших в Афганистане <BR>
+        17 октября в Павлодаре в торжественной обстановке открыли мемориальный комплекс павлодарским воинам-интернационалистам. Теперь в парке Афганцев цветет 36 именных тюльпанов из черного мрамора.<BR>
+        ]]>
+        </string>
+    <string name="marker5_file">file:///android_asset/KUIS/index.html</string>
+
+</resources>
